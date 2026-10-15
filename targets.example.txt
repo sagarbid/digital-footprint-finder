@@ -1,0 +1,4 @@
+# One username per line. Lines starting with # are ignored.
+# Copy this file to targets.txt and add your own handles.
+exampleuser
+example_handle_2

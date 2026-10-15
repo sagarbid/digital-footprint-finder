@@ -1,0 +1,16 @@
+# Allow-list: ignore everything, then explicitly allow only what is safe to publish.
+# Target lists, baselines, raw scans and event logs contain personal data and can never be committed.
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!SECURITY.md
+!footprint_finder.ps1
+!targets.example.txt
+!emails.example.txt
+
+!assets/
+!assets/banner.svg
+!docs/
+!docs/*.md

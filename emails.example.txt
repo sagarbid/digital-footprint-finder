@@ -1,0 +1,3 @@
+# One email address per line. Lines starting with # are ignored.
+# Copy this file to emails.txt and add your own addresses.
+user@example.com
